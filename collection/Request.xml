@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetProductRequest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://test.com/products" xsi:schemaLocation="http://test.com/products product-schema.xsd">
+    <id>111</id>
+</GetProductRequest>

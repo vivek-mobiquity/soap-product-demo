@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetProductResponse xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://test.com/products" xsi:schemaLocation="http://test.com/products product-schema.xsd">
+    <Products>
+        <id>111</id>
+        <name>Macbook</name>
+        <description>Description goes here..</description>
+        <price>2500</price>
+    </Products>
+</GetProductResponse>
